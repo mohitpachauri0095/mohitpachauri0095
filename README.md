@@ -1,4 +1,4 @@
-# Hi there, I'm Mohit Pachauri 👋
+# Hi there, I'm Mohit Pachauri 👋. 
 
 A passionate developer focused on building scalable web applications, mastering Data Structures & Algorithms, and exploring Cloud & DevOps.
 
