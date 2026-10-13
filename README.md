@@ -7,7 +7,7 @@ A passionate developer focused on building scalable web applications, mastering 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_mohit_pachauri/)
 
 ---  .   
-
+  
 ### 📌 About Me
 
 - 🔭 Currently working on **Full Stack & Cloud Native Projects**
