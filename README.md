@@ -18,7 +18,7 @@ A passionate developer focused on building scalable web applications, mastering 
   
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 - **Languages:** Java, JavaScript, HTML5, CSS3, SQL
 - **Frameworks & Libraries:** React.js, Node.js, Express.js
